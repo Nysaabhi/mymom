@@ -1627,21 +1627,21 @@
             <i class="fas fa-home"></i>
             <span>Home</span>
         </div>
-        <div class="nav-item" data-page="projects">
-            <i class="fas fa-project-diagram"></i>
-            <span>Projects</span>
+        <div class="nav-item" data-page="tournament">
+            <i class="fas fa-trophy"></i>
+            <span>Tournament</span>
+        </div>
+        <div class="nav-item" data-page="gallery">
+            <i class="fas fa-vr-cardboard"></i>
+            <span>Gallery</span>
+        </div>
+        <div class="nav-item" data-page="location">
+            <i class="fas fa-map"></i>
+            <span>Location</span>
         </div>
         <div class="nav-item" data-page="listings">
             <i class="fas fa-list"></i>
             <span>Listings</span>
-        </div>
-        <div class="nav-item" data-page="gallery">
-            <i class="fas fa-images"></i>
-            <span>Gallery</span>
-        </div>
-        <div class="nav-item" data-page="profile">
-            <i class="fas fa-user"></i>
-            <span>Sign In</span>
         </div>
     </div>
 </nav>
